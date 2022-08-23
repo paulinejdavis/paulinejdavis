@@ -1,6 +1,6 @@
-#					 Hi 👋🏾, I'm Pauline
+#		<p align="center">Hi 👋🏾, I'm Pauline </p>
 
-### A newbie developer from London
+## <p align="center"> A newbie developer from London </p>
 
 - 🔭 I’m currently bootcamping
 
