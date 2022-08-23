@@ -1,4 +1,17 @@
-### Hi there 👋
+#					 Hi 👋🏾, I'm Pauline
+
+### A newbie developer from London
+
+- 🔭 I’m currently bootcamping
+
+- 🌱 I’m currently learning Ruby and Javascript
+
+- 💬 Ask me about Golang
+
+<!-- 📫 How to reach me: ...
+
+- 📝 Know about my experiences-->
+
 
 <!--
 **paulinejdavis/paulinejdavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
