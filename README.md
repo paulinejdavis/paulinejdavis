@@ -2,11 +2,11 @@
 
 ## <p align="center"> A newbie developer from London </p>
 
-- 🔭 I’m currently bootcamping
+- 🔭 I’ve just completed Makers intensive 16 week bootcamp
 
-- 🌱 I’m currently learning Ruby and Javascript
+- 🌱 I’m currently focussed on all things JS and React
 
-- 💬 Ask me about Golang
+- 💬 I'm excited about finding my first Junior Developer role
 
 <!-- 📫 How to reach me: ...
 
