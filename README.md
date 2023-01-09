@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- [![Pauline's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulinejdavis)](https://github.com/paulinejdavis/github-readme-stats) -->
-https://github-readme-stats.vercel.app/api?username=paulinejdavis
+![Pauline's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulinejdavis&show_icons=true&bg_color=00000000)
