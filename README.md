@@ -2,11 +2,11 @@
 
 ## <p align="center"> A newbie developer from London </p>
 
-- 🔭 I completed Makers intensive 16 week bootcamp
-
 - 🌱 I’m currently focussed on all things Swift
 
 - 💬 I'm excited about my first Associate Developer role
+
+- 🔭 I completed Makers intensive 16 week bootcamp
 
 <!-- 📫 How to reach me: ...
 
