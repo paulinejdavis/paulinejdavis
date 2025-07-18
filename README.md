@@ -1,12 +1,12 @@
 #		<p align="center">Hi 👋🏾, I'm Pauline </p>
 
-## <p align="center"> A newbie developer from London </p>
+## <p align="center"> A developer from London </p>
 
-- 🌱 I’m currently focussed on all things Swift
+- 🌱 I’m currently focussed on all things Java
 
-- 💬 I'm excited about my first Associate Developer role
+- 💬 I'm excited about my second Engineering role
 
-- 🔭 I completed Makers intensive 16 week bootcamp
+- 🔭 I recently completed Mosiac intensive 5 week Blender fundamentals bootcamp
 
 <!-- 📫 How to reach me: ...
 
